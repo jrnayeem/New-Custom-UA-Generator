@@ -1,4 +1,12 @@
 const ANDROID_DEVICES = [
+	"Android 10; 8092 Build/PPR1.180610.011",
+	"Android 10; CLT-L09 Build/HUAWEICLT-L09",
+	"Android 10; EML-L29 Build/HUAWEIEML-L29",
+	"Android 10; IN2011 Build/QKQ1.191222.002",
+	"Android 10; M2006C3MII Build/QP1A.190711.020",
+	"Android 10; motorola one macro Build/QMDS30.47-19-2",
+	"Android 10; motorola one vision Build/QSAS30.62-24-6",
+	"Android 10; RMX2020 Build/QP1A.190711.020",
 	"Android 10; SM-A305GT Build/QP1A.190711.020",
 	"Android 10; SM-G960U Build/QP1A.190711.020",
 	"Android 10; SM-G960W Build/QP1A.190711.020",
